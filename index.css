@@ -1,4 +1,9 @@
 h1 {
     color: skyblue;
-    font-emphasize: 700px;
+    font-weight: 700;
+}
+
+html,
+body {
+    background-color: red;
 }
